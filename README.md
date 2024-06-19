@@ -1,9 +1,9 @@
 
 ![Jeanne d'Arc NYIRAMWIZA](https://github.com/njoanc/njoanc/blob/main/1714500914832.jpeg)
 
-## Jeanne D’Arc Nyiramwiza
+## Jeanne D’Arc Nyiramwiza --- Backend Engineer | Node.js Specialist | React.js Developer
 
-## Backend Engineer | Node.js Specialist | React.js Developer
+
 
 ### 🌟 About Me
 I am a dedicated Backend Engineer with over 5 years of experience specializing in Node.js (TypeScript, NestJs, and ExpressJs) and more than 2 years of expertise in React.js. My coding journey began in 2018 from scratch, driven by a passion for technology and a determination to create impactful solutions.
