@@ -1,5 +1,5 @@
 # 👩‍💻 Jeanne D’Arc Nyiramwiza
-![Jeanne d'Arc NYIRAMWIZA](https://drive.google.com/file/d/155wkC9H7neGCUFYpd8JBgIc1lRGgUwrd/view?usp=drive_link)
+![Jeanne d'Arc NYIRAMWIZA](https://github.com/njoanc/njoanc/blob/main/1714500914832.jpeg)
 
 ## 🚀 Backend Engineer | Node.js Specialist | React.js Developer
 
