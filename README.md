@@ -32,7 +32,7 @@ Explore my projects, delve into my code, and witness the impact of my contributi
 ![Jeanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=njoanc&show_icons=true&theme=radical)
 
 ### 🔭 Featured Projects
-- [**KonectIn**](https://github.com/JeanneDarcNyiramwiza/konectin)
+- [**KonectIn**](https://github.com/konnectintech/Konectin-website-_backend)
   - An application that takes away the hassle of job searching. It connects you to top-level recruiters and makes job hunting fun and stress-free. Key features include user profiles, job listings, recruiter connections, and automated job recommendations.
   - **Technologies:** Express.js, Mocha, Chai, Swagger UI, MongoDB, AWS S3, MailTrap SMTP.
     
