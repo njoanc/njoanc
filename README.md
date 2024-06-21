@@ -1,7 +1,7 @@
 
 ![Jeanne d'Arc NYIRAMWIZA](https://github.com/njoanc/njoanc/blob/main/1714500914832.jpeg)
 
-## Jeanne d’Arc Nyiramwiza --- Backend Engineer | Node.js Specialist | React.js Developer
+## Jeanne d’Arc Nyiramwiza --- Software Engineer | Node.js Specialist | React.js Developer
 
 
 
