@@ -49,6 +49,10 @@ Explore my projects, delve into my code, and witness the impact of my contributi
   - An e-Commerce app for buying headphones, earphones, speakers, and other audio-related items. The project is a collaboration with Azubi Africa school as a Front-end developer student.
   - **Key Features:** Browse and purchase audio products.
   - **Technologies:** React.js, Tailwind CSS, Axios, Github CI/CD
+ 
+- [**single-page-developer-portfolio**](https://github.com/njoanc/single-page-developer-portfolio.git)
+  - This personal portfolio showcases my tech experience, skills, and educational background.
+  - **Technologies:** React.js, Tailwind CSS
     
 ### 🌱 Current Focus
 I am currently exploring advanced React.js frameworks and enhancing my front-end development skills.
