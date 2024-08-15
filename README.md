@@ -53,6 +53,9 @@ Explore my projects, delve into my code, and witness the impact of my contributi
 - [**single-page-developer-portfolio**](https://github.com/njoanc/single-page-developer-portfolio.git)
   - This personal portfolio showcases my tech experience, skills, and educational background.
   - **Technologies:** React.js, Tailwind CSS
+ 
+- [**Smart WebCam**](https://github.com/njoanc/smartWebCam.git)
+  - The project aims to detect Multiple object using pre trained model in TensorFlow.js and coco-ssd pre-trained model.
     
 ### 🌱 Current Focus
 I am currently exploring advanced React.js frameworks and enhancing my front-end development skills.
@@ -60,6 +63,7 @@ I am currently exploring advanced React.js frameworks and enhancing my front-end
 ### 🎯 Goals for 2024
 - Contribute to high-impact open-source projects.
 - Improve skills in DevOps and cloud computing.
+- Web Machine Learning(TensorFlow.js).
 - Network and collaborate with fellow developers globally.
 
 ### 🏆 Achievements
