@@ -16,6 +16,7 @@ I am a dedicated Backend Engineer with over 5 years of experience specializing i
 - **Cloud Services:** AWS S3
 - **Testing:** Comprehensive unit and integration testing
 - **Frontend Development:** React.js, TailwindCSS
+- **Web Machine Learning:** TensorFlow.js
 
 ### 🌍 Why Hiring Me is an Investment
 Choosing me is investing in a future of innovation, reliability, and excellence. With a proven track record of building scalable, efficient, and secure backend systems, I bring more than just technical skills. My journey from a novice coder to an experienced engineer showcases my commitment to growth and learning. I tackle challenges head-on and thrive in dynamic environments. Whether architecting robust APIs, optimizing database performance, or crafting seamless user interfaces with React.js, my work is driven by a focus on quality and results.
