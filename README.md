@@ -33,6 +33,14 @@ Explore my projects, delve into my code, and witness the impact of my contributi
 ![Jeanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=njoanc&show_icons=true&theme=radical)
 
 ### 🔭 Featured Projects
+- [**mobile-wallet-backend**](https://github.com/njoanc/mobile-wallet-backend.git)
+  - This Mobile Wallet application is designed to serve a large user base in emerging markets. Built with NestJS, it offers key features including:
+    - Account balance inquiries
+    - Money deposits and withdrawals
+    - User-to-user money transfers
+    - Transaction history with filtering and pagination
+    - Account statement generation in PDF format
+  - **Technologies:** NestJs, Flutterwave, Docker, Redis, Sqlite, Mocha, Chai, Swagger UI, PostgreSQL, AWS S3, MailTrap SMTP.
 - [**KonectIn**](https://github.com/konnectintech/Konectin-website-_backend)
   - An application that takes away the hassle of job searching. It connects you to top-level recruiters and makes job hunting fun and stress-free. Key features include user profiles, job listings, recruiter connections, and automated job recommendations.
   - **Technologies:** Express.js, Mocha, Chai, Swagger UI, MongoDB, AWS S3, MailTrap SMTP.
