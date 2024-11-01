@@ -40,7 +40,7 @@ Explore my projects, delve into my code, and witness the impact of my contributi
     - User-to-user money transfers
     - Transaction history with filtering and pagination
     - Account statement generation in PDF format
-  - **Technologies:** NestJs, Flutterwave, Docker, Redis, Sqlite, Mocha, Chai, Swagger UI, PostgreSQL, AWS S3, MailTrap SMTP.
+  - **Technologies:** NestJs, Flutterwave, Docker, Redis, Sqlite, Mocha, Chai, Swagger UI, PostgreSQL, AWS S3, MailTrap SMTP, CI,CD(Github Actions).
 - [**KonectIn**](https://github.com/konnectintech/Konectin-website-_backend)
   - An application that takes away the hassle of job searching. It connects you to top-level recruiters and makes job hunting fun and stress-free. Key features include user profiles, job listings, recruiter connections, and automated job recommendations.
   - **Technologies:** Express.js, Mocha, Chai, Swagger UI, MongoDB, AWS S3, MailTrap SMTP.
